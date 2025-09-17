@@ -16,4 +16,5 @@ Clone and install dependencies:
 ```bash
 git clone https://github.com/mfliexx/SystemAudit.git
 cd SystemAudit
-pip install -r requirements.txt
+pip install colorama pyfiglet
+
