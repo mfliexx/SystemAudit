@@ -2,13 +2,13 @@
 
 ## Features
 
-Checks OS name and version
-Checks system architecture and processor type
-Checks Python version and compiler
-Checks computer name and current user
-Colorful console report
-Optional CLI flags (--os, --python, --arch, --user)
-Optionally saves the report to a file (`audit_report.txt`)
+1. Checks OS name and version
+2. Checks system architecture and processor type
+3. Checks Python version and compiler
+4. Checks computer name and current user
+5. Colorful console report
+6. Optional CLI flags (--os, --python, --arch, --user)
+7. Optionally saves the report to a file (`audit_report.txt`)
 
 ## Installation
 
