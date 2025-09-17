@@ -1,4 +1,0 @@
-System Audit Report
-===================
-OS: Windows 10.0.26100
-Python: 3.13.7
